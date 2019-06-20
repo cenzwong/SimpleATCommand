@@ -13,3 +13,8 @@ Copy the corresponding function of the code and run
 
 The .c is far more complicated when do the setting. Take a look on that
 
+
+
+
+TODO:
+May Create a universal library. Any Idea?
